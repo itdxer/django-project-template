@@ -1,6 +1,8 @@
 from base import *
 
 
+SITE_ID = 1
+
 DEBUG_TOOLBAR_PATCH_SETTINGS = False
 
 INSTALLED_APPS += (
