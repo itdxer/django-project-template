@@ -1,4 +1,5 @@
 {
     "project_name": "application",
-    "description": "Application"
+    "description": "Application",
+    "site_domain": "example.com"
 }

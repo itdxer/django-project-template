@@ -6,5 +6,5 @@
 - model: sites.site
   pk: 2
   fields:
-    domain: example.com
-    name: example.com
+    domain: {{cookiecutter.site_domain}}
+    name: {{cookiecutter.site_domain}}
